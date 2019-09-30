@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name        = 'RxOptional'
-  s.version     = '3.6.1'
+  s.version     = '3.6.2'
   s.summary     = 'RxSwift extensions for Swift optionals and Occupiable types'
 
   s.description = <<-DESC
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.license     = 'MIT'
   s.author      = { 'RxSwift Community' => 'community@rxswift.org' }
   s.source      = {
-                    :git => 'https://github.com/RxSwiftCommunity/RxOptional.git',
+                    :git => 'https://github.com/lcg5450/RxOptional.git',
                     :tag => s.version.to_s
                   }
 
