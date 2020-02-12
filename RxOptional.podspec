@@ -1,17 +1,17 @@
 Pod::Spec.new do |s|
   s.name        = 'RxOptional'
-  s.version     = '4.0.0'
+  s.version     = '4.1.0'
   s.summary     = 'RxSwift extensions for Swift optionals and Occupiable types'
 
   s.description = <<-DESC
                   RxSwift extensions for Swift optionals and "Occupiable" types.
                   DESC
 
-  s.homepage    = 'https://github.com/RxSwiftCommunity/RxOptional'
+  s.homepage    = 'https://github.com/lcg5450/RxOptional'
   s.license     = 'MIT'
   s.author      = { 'RxSwift Community' => 'community@rxswift.org' }
   s.source      = {
-                    :git => 'https://github.com/RxSwiftCommunity/RxOptional.git',
+                    :git => 'https://github.com/lcg5450/RxOptional.git',
                     :tag => s.version.to_s
                   }
 
